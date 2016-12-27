@@ -37,5 +37,5 @@ for idx, cl in enumerate(np.unique(label_data)):
 plt.xlabel('X in t-SNE')
 plt.ylabel('Y in t-SNE')
 plt.legend(loc='upper left')
-plt.title('t-SNE visualization of battle data')
+plt.title('t-SNE visualization of character deaths data')
 plt.show()
