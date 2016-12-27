@@ -19,7 +19,7 @@ Legend:
 [0: 'Female', 1: 'Male']
 We can see that male and female who are alive are generally grouped together and those allegiances are relatively same.
 
-### Visualization 1 :
+### Visualization 3 :
 Visualization of the prediction and popularity data gender-wise
 ![battle](output/prediction_visualization.png)
 
